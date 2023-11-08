@@ -1,0 +1,22 @@
+ 
+.container{
+  max-width: 1800px;
+   float: left;
+}
+.img-top{
+  
+height:470px;
+}
+.stragerthings{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: red;
+}
+
+.sorting {
+ color: #212121;
+}
+.title-text{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+  }
+
